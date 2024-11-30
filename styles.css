@@ -1,11 +1,10 @@
-/* 
-I have created the styles.css file to define the initial page styling for my portfolio. 
-This includes the basic layout and design elements, such as the header design and footer responsiveness. 
-I have also enhanced the layout for better mobile responsiveness, ensuring the page is visually appealing and functional across different screen sizes. 
-These updates will provide a clean, user-friendly experience across various devices.
-*/
+/* Portfolio layout and responsiveness */
 
 /* General Styles */
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -17,10 +16,10 @@ body {
 
 /* Header Styles */
 header {
-    background-color: #007acc;
+    background: linear-gradient(90deg, #0056b3, #007acc);
     color: white;
-    padding: 20px;
-    text-align: center;
+    padding: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 header h1 {
@@ -55,7 +54,12 @@ p {
     border: 1px solid #cce5ff;
     padding: 15px;
     border-radius: 8px;
-    margin-bottom: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 .project h3 {
@@ -77,17 +81,32 @@ footer {
     font-size: 0.9rem;
 }
 
+footer a {
+    color: #80d4ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header h1 {
-        font-size: 2rem;
+        font-size: 1.6rem; /* Adjust for better readability */
     }
 
     header p {
-        font-size: 1rem;
+        font-size: 1rem;  /* Adjust for mobile */
     }
 
     section {
         padding: 10px;
+    }
+
+    footer {
+        font-size: 0.8rem;
     }
 }
