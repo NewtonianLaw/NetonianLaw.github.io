@@ -43,10 +43,5 @@ You can view the full project and my other work on [GitHub](https://github.com/n
 
 ---
 
-## 📫 Get in Touch:
+![Richard's Profile](https://github.com/NewtonianLaw/NewtonianLaw.github.io/blob/main/Github_Photo.jpg?raw=true)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-
----
-
-![Richard's Profile](https://example.com/your-photo.jpg)
