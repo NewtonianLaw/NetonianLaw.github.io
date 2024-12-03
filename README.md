@@ -39,7 +39,7 @@ The **Pet Hotel Management System** started as a **Java application** for basic 
 
 ## 💻 Check Out My Code:
 
-You can view the full project and my other work on [GitHub](https://github.com/newtonianlaw.github.io/).
+You can view the full project and my other work on [GitHub](https://github.com/NewtonianLaw).
 
 ---
 
