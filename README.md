@@ -1,12 +1,12 @@
-# Hi, I'm Richard! 👨‍💻 Computer Scientist and Programmer
+# <span style="color: #2d9cdb;">Hi, I'm Richard! 👨‍💻 Computer Scientist and Programmer</span>
 
 Welcome to my ePortfolio! I am a **Computer Science graduate** from **Southern New Hampshire University**, with expertise in programming, problem-solving, and software engineering. Below, you'll find an overview of my skills, projects, and reflections.
 
-## 📚 About Me
+## 📚 <span style="color: #2d9cdb;">About Me</span>
 
 As a Computer Science graduate, I've built a strong foundation in problem-solving, algorithms, and coding. I thrive on creating efficient, scalable software solutions and adapting to new programming languages.
 
-## 🌟 Featured Project: **Pet Hotel Management System**
+## 🌟 <span style="color: #f7b731;">Featured Project: <strong>Pet Hotel Management System</strong></span>
 
 The **Pet Hotel Management System** is one of my key projects that showcases my skills in **software engineering**, **algorithms**, and **database management**. It started as a **Java-based system** and evolved into a **Python-based solution** for managing both dogs and cats.
 
@@ -15,12 +15,12 @@ The **Pet Hotel Management System** is one of my key projects that showcases my 
 - **Python Adaptation**: Transitioned the system to Python, enhancing code readability and flexibility.
 - **Database Integration**: Used advanced data structures like `Node` and `PetLinkedList` for efficient pet record management.
 
-## 🎯 Key Skills
+## 🎯 <span style="color: #f7b731;">Key Skills</span>
 - **Programming Languages**: Java, Python, C++, HTML/CSS, JavaScript
 - **Software Engineering**: Object-Oriented Programming (OOP), Design Patterns
 - **Database Management**: SQL, Data Structures
 
-## 💻 Check Out My Code
+## 💻 <span style="color: #2d9cdb;">Check Out My Code</span>
 
 You can view the full project and my other work on [GitHub](https://github.com/NewtonianLaw).
 
