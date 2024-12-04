@@ -69,6 +69,9 @@
   <h2>💻 Check Out My Code:</h2>
   <p>You can view the full project and my other work on <a href="https://github.com/NewtonianLaw" target="_blank">GitHub</a>.</p>
 
+  <h2>📘 Learn More</h2>
+  <p>Visit my <a href="https://newtonianlaw.github.io/" target="_blank">portfolio webpage</a> for a styled overview of my work.</p>
+
   <img src="https://github.com/NewtonianLaw/NewtonianLaw.github.io/blob/main/Github_Photo.jpg?raw=true" alt="Richard's Profile">
 </body>
 </html>
