@@ -118,3 +118,10 @@ footer a:hover {
         font-size: 0.8rem;
     }
 }
+
+/* Add this at the end of your styles.css file */
+
+/* Hide Visual Highlights section */
+#gallery, .visual-highlights {
+    display: none !important;
+}
