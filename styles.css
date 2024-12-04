@@ -31,6 +31,14 @@ header p {
     font-size: 1.2rem;
 }
 
+/* Profile Picture Styles */
+.profile-picture {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    max-width: 150px;
+}
+
 /* Section Styles */
 main {
     padding: 20px;
