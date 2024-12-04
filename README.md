@@ -1,12 +1,12 @@
-# <span style="color: #2d9cdb;">Hi, I'm Richard! 👨‍💻 Computer Scientist and Programmer</span>
+# Hi, I'm Richard! 👨‍💻 Computer Scientist and Programmer
 
 Welcome to my ePortfolio! I am a **Computer Science graduate** from **Southern New Hampshire University**, with expertise in programming, problem-solving, and software engineering. Below, you'll find an overview of my skills, projects, and reflections.
 
-## 📚 <span style="color: #2d9cdb;">About Me</span>
+## 📚 About Me
 
 As a Computer Science graduate, I've built a strong foundation in problem-solving, algorithms, and coding. I thrive on creating efficient, scalable software solutions and adapting to new programming languages.
 
-## 🌟 <span style="color: #f7b731;">Featured Project: <strong>Pet Hotel Management System</strong></span>
+## 🌟 Featured Project: **Pet Hotel Management System**
 
 The **Pet Hotel Management System** is one of my key projects that showcases my skills in **software engineering**, **algorithms**, and **database management**. It started as a **Java-based system** and evolved into a **Python-based solution** for managing both dogs and cats.
 
@@ -15,7 +15,7 @@ The **Pet Hotel Management System** is one of my key projects that showcases my 
 - **Python Adaptation**: Transitioned the system to Python, enhancing code readability and flexibility.
 - **Database Integration**: Used advanced data structures like `Node` and `PetLinkedList` for efficient pet record management.
 
-## 🎯 <span style="color: #f7b731;">Key Skills</span>
+## 🎯 Key Skills
 - **Programming Languages**: Java, Python, C++, HTML/CSS, JavaScript
 - **Software Engineering**: Object-Oriented Programming (OOP), Design Patterns
 - **Database Management**: SQL, Data Structures
